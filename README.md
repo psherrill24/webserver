@@ -48,7 +48,7 @@ The purpose of the assignment is to familiarize you with the automatic build, co
        i. on hub.docker.com create id for yourself (if you have not done so before)
        ii. create automated build (see docker.md for further directions)
        iii. connect to github repo you have just created
-5. make a change on the github repo (to trigger build)
+5. make a change on the github repo (to trigger build), editing to test
 6. Verify that the build succeeded https://hub.docker.com/r/yourdockerhubid/webserver/builds/
 7. Create a virual machine on GCP
 
